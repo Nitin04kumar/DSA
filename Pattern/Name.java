@@ -1,6 +1,6 @@
 public class Name {
     public static void main(String[] args) {
-        String name = "Dristi Priyadarshini";
+        String name = "Drishti";
 
         for(int i = 0 ; i < name.length() ; i++){
             for(int j = 0 ; j <= i ; j++){
